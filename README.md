@@ -47,7 +47,7 @@ THANKS TO ALL
   
 [Xinz](https://github.com/Xinz-Team)
   
-[ItsMeArip](https://projectskiuwers.github.io/ItsMeArip)
+[ItsMeArip](https://skiuwers.github.comItsMeArip)
 
  ------
 
